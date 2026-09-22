@@ -82,6 +82,6 @@ Analysen demonstrerer grænserne for rent teknisk produktanalyse i kreative indu
 ## 📂 Filstruktur
 
 ```text
-├── spotify_analysis.ipynb   # Komplet Google Colab notebook med kode, API-kald og grafer
+├── Untitled0.ipynb   # Komplet Google Colab notebook med kode, API-kald og grafer
 ├── spotify_analysis.png     # Visualisering af de 3 del-analyser
 └── README.md                # Projektdokumentation og konklusioner
